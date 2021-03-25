@@ -1,0 +1,26 @@
+.carousel-item {
+    height: 65vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+  }
+.display-4:first-child{
+    color:BLACK;
+    font-weight: bold;
+   
+     
+}
+.lead{
+     color: black;
+     font-weight: bold;
+}
+.carousel-caption {
+ background-color:#fff;
+ opacity: 0.7;
+ border: 2px solid;
+ border-radius: 5px;
+}
